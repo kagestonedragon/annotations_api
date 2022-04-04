@@ -1,4 +1,4 @@
-module git.repo.services.lenvendo.ru/grade-factor/api
+module github.com/kagestonedragon/annotations_api
 
 go 1.17
 
